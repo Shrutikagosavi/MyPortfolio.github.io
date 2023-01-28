@@ -225,3 +225,6 @@ ol li span:first-child:before {
   align-content: initial;
   flex: 1 1 100%;
 }
+a{
+ text-decoration : none;
+}
